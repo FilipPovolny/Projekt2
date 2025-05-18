@@ -18,7 +18,7 @@ Web má sloužit jako moderní online vizitka, kde si zákazníci mohou prohléd
 ### ✅ Stav projektu:
 
 - Web vytvořen pomocí HTML, CSS a JavaScriptu.
-- Barevně a vizuálně inspirován webem stavbyceban.cz.
+- Vizuálně inspirován webem stavbyceban.cz.
 - Web obsahuje tyto sekce:
   - Úvod
   - Nabídka služeb
