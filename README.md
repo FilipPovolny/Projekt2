@@ -1,5 +1,13 @@
 # 🧱 Ročníkový projekt – Webová prezentace živnostníka (zedníka)
 
+## Informace: 
+
+Autor: Filip Povolný
+
+Třída: T3A
+
+Školní rok: 2024/2025
+
 ## 🎯 Cíl projektu (zadání)
 
 Cílem tohoto ročníkového projektu je vytvořit profesionální a funkční webovou prezentaci pro živnostníka, který se zabývá zednickými pracemi v okolí Orlických hor.  
